@@ -1,5 +1,11 @@
 # @primer/css
 
+## 19.1.0
+
+### Minor Changes
+
+- [#1759](https://github.com/primer/css/pull/1759) [`74724ce7`](https://github.com/primer/css/commit/74724ce7c72b1cb540a9ef3d845169f1df17b55e) Thanks [@langermank](https://github.com/langermank)! - Remove `popover` responsive hack
+
 ## 19.0.0
 
 ### Major Changes
